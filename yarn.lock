@@ -1360,9 +1360,9 @@ grunt-contrib-jshint@^3.2.0:
     jshint "~2.13.4"
 
 grunt-contrib-qunit@^7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/grunt-contrib-qunit/-/grunt-contrib-qunit-7.0.0.tgz#e058cd696ae69115ec3015c0cbcc7687df8595a4"
-  integrity sha512-phSuAixAzyvizgUV9Nw7ip0/G5lVeWA/4DUifcdKPOgjTAY7QIWsTugxiXMGeVwMKnDOS3vTMpL/VyEw8z7yYw==
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/grunt-contrib-qunit/-/grunt-contrib-qunit-7.0.1.tgz#5f4eb5cb4f3fa78dcf524502d001a5ef520b66cc"
+  integrity sha512-+5eL4qv2H8q6he+2HGDkqbKwAulRUrtMaX5NoY2AwwvbA4d4OqsI1YGiUZ0L/O9oL7nUQ1cxGKeOp+TcE/AYUg==
   dependencies:
     eventemitter2 "^6.4.9"
     p-each-series "^2.2.0"
